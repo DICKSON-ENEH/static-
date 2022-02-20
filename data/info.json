@@ -1,0 +1,121 @@
+[{   "id":1,
+    "name":"bollore logistics",
+    "location":"apapa",
+    "services":"frieting",
+    "ratings":{
+      "transparency":100,
+      "exprience":"10 yrs",
+      "professionalism":"expert"
+
+    }
+     
+},
+{   "id":2,
+    "name":"cocacola",
+    "location":"boundary",
+    "services":"bottling company",
+    "ratings":{
+      "transparency":100,
+      "exprience":"30 yrs",
+      "professionalism":"amateur"
+
+    }
+     
+},
+{    "id":3,
+    "name":"golden penny",
+    "location":"apapa",
+    "services":"foods",
+    "ratings":{
+      "transparency":89,
+      "exprience":"45yrs",
+      "professionalism":"satisfactory"
+
+    }
+     
+},
+{     "id":4,
+    "name":"zenith bank",
+    "location":"marina",
+    "services":"banking",
+    "ratings":{
+      "transparency":100,
+      "exprience":"18 yrs",
+      "professionalism":"justifying"
+
+    }
+     
+},
+{     "id":5,
+    "name":"icnl",
+    "location":"apapa",
+    "services":"frieting",
+    "ratings":{
+      "transparency":35,
+      "exprience":"54 yrs",
+      "professionalism":"professional"
+
+    }
+     
+},
+{     "id":6,
+    "name":"julius berger",
+    "location":"unknown",
+    "services":"construction",
+    "ratings":{
+      "transparency":100,
+      "exprience":"49 yrs",
+      "professionalism":"master"
+
+    }
+     
+},
+{    "id":7,
+    "name":"eco bank",
+    "location":"apapa",
+    "services":"bankking",
+    "ratings":{
+      "transparency":44,
+      "exprience":"54 yrs",
+      "professionalism":"we dey learn work"
+
+    }
+     
+},
+{     "id":8,
+    "name":"nimasa",
+    "location":"apapa",
+    "services":"regulation",
+    "ratings":{
+      "transparency":100,
+      "exprience":"10 yrs",
+      "professionalism":"expert"
+
+    }
+     
+},
+{    "id":9,
+    "name":"codelab",
+    "location":"ajegunle",
+    "services":"software development",
+    "ratings":{
+      "transparency":100,
+      "exprience":"3 yrs",
+      "professionalism":"expert"
+
+    }
+     
+},
+{      "id":10,
+    "name":"desttiny foods",
+    "location":"apapa",
+    "services":"catering",
+    "ratings":{
+      "transparency":80,
+      "exprience":"32 yrs",
+      "professionalism":"expert"
+
+    }
+     
+}
+]
